@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <rect id="Rectangle" fill="#F5F5F5" x="0" y="0" width="512" height="512" rx="64"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#191970" x="63.5" y="341.5" width="127" height="127" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#191970" x="192.5" y="341.883672" width="127" height="127" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#191970" x="321.5" y="341.5" width="127" height="127" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#191970" x="128.5" y="206.5" width="127" height="127" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#191970" x="257.5" y="206.5" width="127" height="127" rx="12"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" fill="#1E90FF" transform="translate(275.000000, 121.383672) rotate(15.000000) translate(-275.000000, -121.383672) " x="211.5" y="57.8836718" width="127" height="127" rx="12"></rect>
+        </g>
+    </g>
+</svg>
